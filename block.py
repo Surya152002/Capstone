@@ -5,7 +5,7 @@ import json
 class Block:
     def __init__(self, name):
         self.block = {
-            "name": name,
+            "name": PUF KEY,
             "timestamp": int(time.time())
         }
 
